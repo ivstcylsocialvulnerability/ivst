@@ -101,8 +101,8 @@ El proyecto utiliza un entorno virtual gestionado con **conda**, definido en el 
 ### Clonado del repositorio
 
 ```bash
-git clone https://github.com/cdiezgar-uoc/ivst-tfm.git
-cd ivst-tfm
+git clone https://github.com/ivstcylsocialvulnerability/ivst.git
+cd ivst
 ```
 
 ### Creación del repositorio con conda
